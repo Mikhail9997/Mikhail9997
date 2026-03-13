@@ -39,7 +39,7 @@
 
 ## Мои проекты
 - https://github.com/Mikhail9997/Financial-Manager - Персональный финансовый менеджер
-- https://github.com/Mikhail9997/SCFET-Notifications - Информационная система быстрых оповещений резедентов СКФЭТ(Backend)
+- https://github.com/Mikhail9997/SCFET-Notifications - Информационная система быстрых оповещений резидентов СКФЭТ(Backend)
 - https://github.com/Mikhail9997/SCFET-Notifications-Mobile-App - Мобильное приложение для резидентов СКФЭТ уведомлений
 - https://github.com/Mikhail9997/Test-Drive-Portal - Портал тест-драйва на React и Asp.Net
 
