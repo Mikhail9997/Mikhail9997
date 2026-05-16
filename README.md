@@ -2,7 +2,9 @@
 
 Я backend-разработчик с опытом создания веб-приложений на платформе .NET. Мой основной язык — C#, а главные инструменты — ASP.NET Core и Entity Framework.
 
-Люблю разбираться в том, как работают системы под капотом. Поэтому в своих проектах я стараюсь использовать не только классические базы данных (PostgreSQL, SQLite), но и очереди сообщений (Apache Kafka) для асинхронного взаимодействия, а также Redis для быстрого кэширования данных.
+Люблю разбираться в том, как работают системы под капотом. Поэтому в своих проектах я стараюсь использовать не только классические базы данных (PostgreSQL, SQLite), но и очереди сообщений (Apache Kafka) для асинхронного взаимодействия, Redis для быстрого кэширования данных, а также SignalR для real-time коммуникации.
+
+Имею опыт разработки мобильных приложений на .NET MAUI — от архитектуры MVVM до интеграции с SignalR и REST API.
 
 Когда нужно поднять инфраструктуру локально или для продакшна — использую Docker. Это помогает сделать приложения гибкими и независимыми от окружения.
 
@@ -28,6 +30,10 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
+### Мобильная разработка
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
 ### Фронтенд
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
@@ -36,13 +42,26 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
 ## Мои проекты
-- https://github.com/Mikhail9997/Financial-Manager - Персональный финансовый менеджер
-- https://github.com/Mikhail9997/SCFET-Notifications - Информационная система быстрых оповещений резидентов СКФЭТ(Backend)
-- https://github.com/Mikhail9997/SCFET-Notifications-Mobile-App - Мобильное приложение для резидентов СКФЭТ уведомлений
-- https://github.com/Mikhail9997/Test-Drive-Portal - Портал тест-драйва на React и Asp.Net
+### СКФЭТ — Система оповещения и мессенджер
+**Стек:** ASP.NET Core, SignalR, PostgreSQL, Kafka, Redis, .NET MAUI, Docker
 
+Комплексная информационная система для Северо-Кавказского финансово-энергетического техникума:
+
+- **Backend API** — микросервисная архитектура, JWT-авторизация, ролевая модель
+- **Мобильное приложение** — .NET MAUI, MVVM, real-time уведомления
+- **Мессенджер** — каналы, чаты, статусы прочтения, индикатор печати
+- **Telegram боты** — три бота для регистрации студентов, сотрудников и администрирования
+
+[Backend](https://github.com/Mikhail9997/SCFET-Notifications) | [Мобильное приложение](https://github.com/Mikhail9997/SCFET-Notifications-Mobile-App)
+### Персональный финансовый менеджер
+[Financial-Manager](https://github.com/Mikhail9997/Financial-Manager)
+
+### Портал тест-драйва
+**Стек:** React, ASP.NET Core
+[Test-Drive-Portal](https://github.com/Mikhail9997/Test-Drive-Portal)
 ## Контакты
 
 - Telegram - @mkazm9977
